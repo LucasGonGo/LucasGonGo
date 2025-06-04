@@ -8,4 +8,4 @@
 ---
 
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGonGo&theme=tokyonight&hide_border=true&hide=html,css,javascript) ![GitHub Streak](https://streak-stats.demolab.com?user=LucasGonGo&theme=tokyonight&hide_border=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGonGo&theme=tokyonight&hide_border=true&hide=html,css,javascript,stata) ![GitHub Streak](https://streak-stats.demolab.com?user=LucasGonGo&theme=tokyonight&hide_border=true)
