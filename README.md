@@ -35,7 +35,7 @@ I'm currently a member of PUCRS's **[PET-Informática](https://petinfpucrs.githu
 ## 📫 Contact Me
 
 - 📧 [Email](mailto:lucasgomes062005@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-gomes/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-gongo/)
 
 ---
 
